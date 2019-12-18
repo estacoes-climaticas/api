@@ -1,2 +1,3 @@
-# api
-API do controle de estações climáticas
+# API - Controle de estações climáticas
+
+AQUI FICA A DESCRIÇÃO DA API
